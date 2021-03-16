@@ -1,7 +1,6 @@
 # Codecov Ruby Uploader
 
 ## DEPRECATION WARNING
-
 All versions of the Ruby uploader prior to `0.2.0` will no longer be supported
 and will be removed from public use on or after *2020-08-17*.
 Please upgrade to the latest versions to continue using this uploader.
